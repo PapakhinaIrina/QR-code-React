@@ -1,0 +1,25 @@
+.container {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+}
+
+
+.title {
+  text-align: center;
+
+}
+
+
+.input{
+  border-radius: 8px;
+  width: 100%;
+  padding: 4px;
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.code{
+  margin:auto ;
+  margin-top: 20px;
+}
