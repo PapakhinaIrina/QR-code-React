@@ -1,25 +1,38 @@
 .container {
+  margin-top: 50px;
   text-align: center;
   margin: auto;
-  width: 50%;
+  width: 100%;
+  display: flex;
+  align-content: space-around;
+  justify-content: center;
 }
-
-
-.title {
-  text-align: center;
-
-}
-
 
 .input{
+  box-sizing: border-box;
+  border-color: #2d3748;
   border-radius: 8px;
-  width: 100%;
+  width: 50%;
+  height: auto;
   padding: 4px;
   font-size: 15px;
   font-family: 'Times New Roman', Times, serif;
 }
 
-.code{
+.qr_code{
   margin:auto ;
-  margin-top: 20px;
+  margin-top: 50px;
+  border-radius: 8px;
+  
 }
+
+.code_box{
+  border-style: solid;
+  border-radius: 10px;
+  border-color: #334f7a;
+  border-width: 8px;
+  
+}
+
+
+
